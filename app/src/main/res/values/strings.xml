@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FakeFinanceSoft</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="check_private"><a href="https://elet.kg">Посмотреть личные данные в анкете</a></string>
+
+    <string name="Home">Главная</string>
+    <string name="Credits">Кредиты</string>
+    <string name="New">Новый</string>
+    <string name="Calculator">Калькулятор</string>
+    <string name="Profile">Профиль</string>
+
+    <string-array name="Channel">
+        <item>Электронный кошелёк</item>
+        <item>Паспорт</item>
+        <item>На карту</item>
+    </string-array>
+
+    <string-array name="Provider">
+        <item>Balance</item>
+        <item>MBank</item>
+        <item>Visa</item>
+    </string-array>
+</resources>
